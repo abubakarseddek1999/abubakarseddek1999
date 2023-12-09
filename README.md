@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarseddek1999&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarseddek1999" /> </p>
 
-- 🔭 I’m currently working on [Computer-engineer](https://computer-engineer-879da.web.app/)
+- 🔭 I’m currently working on [Newspaper](https://bistroboss-d9446.web.app/)
 
 - 🌱 I’m currently learning **React js, Tailwind,node js, java script.**
 
-- 👯 I’m looking to collaborate on [Newspaper](https://bistroboss-d9446.web.app/)
+- 👯 I’m looking to collaborate on [Computer-engineer](https://computer-engineer-879da.web.app/)
 
-- 🤝 I’m looking for help with [AB-shop](https://ab-tecnology-cfb34.web.app/)
 
 - 💬 Ask me about **MEARN**
 
