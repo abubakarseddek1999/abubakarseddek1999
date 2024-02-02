@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/b502fb42f215811a5a7a2ae4383646e901a77ca8b71f12dbabc6324f88983c78/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067)
+![MasterHead](https://i.postimg.cc/Dfp7D1M6/Abubakar-Banner.png)
 <h1 align="center">Hi 👋, I'm Abu bakar</h1>
 <h3 align="center">A frontend developer from Bangladesh</h3>
 <img align="right alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJoMzZjcmNvcmR5c3RmZ21lYjBueThhd2kzdXNwY2JtcGowdDF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
