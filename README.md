@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarseddek1999&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarseddek1999" /> </p>
 
-- 🔭 I’m currently working on [Newspaper](https://bistroboss-d9446.web.app/)
+- 🔭 I’m currently working on [Domainhub]([https://bistroboss-d9446.web.app/](https://domain-hub-a81ae.web.app/))
 
-- 🌱 I’m currently learning **React js, Tailwind,node js, java script.**
+- 🌱 I’m currently learning **React js, Tailwind, node js, and javascript.**
 
 - 👯 I’m looking to collaborate on [Computer-engineer](https://computer-engineer-879da.web.app/)
 
